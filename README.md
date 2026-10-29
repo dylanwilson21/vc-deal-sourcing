@@ -14,12 +14,12 @@ Founders carry 45% of the score by default. The skill tunes the weights by backt
 
 Ask Claude:
 
-> Install the skill from https://github.com/OWNER/vc-deal-sourcing into ~/.claude/skills
+> Install the skill from https://github.com/dylanwilson21/vc-deal-sourcing into ~/.claude/skills
 
 Or do it yourself:
 
 ```bash
-git clone https://github.com/OWNER/vc-deal-sourcing /tmp/vc-deal-sourcing
+git clone https://github.com/dylanwilson21/vc-deal-sourcing /tmp/vc-deal-sourcing
 cp -r /tmp/vc-deal-sourcing/vc-deal-sourcing ~/.claude/skills/
 ```
 
